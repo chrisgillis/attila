@@ -14,13 +14,13 @@ jQuery(function($) {
 	
 	$('#menu').on({
 		'click': function() {
-			menu();
+			
 		}
 	});
 	
 	$('.menu-button').on({
 		'click': function() {
-			menu();
+			
 		}
 	});
 	
